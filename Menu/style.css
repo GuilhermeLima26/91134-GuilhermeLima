@@ -1,0 +1,28 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav{
+
+    background-color:rgb(23, 23, 194);
+}
+
+div{
+    background-color: rgb(223, 20, 20);
+    width: 80px;
+}
+.d1{
+    background-color: blueviolet;
+    display: inline;
+}
+.d2{
+    background-color:  rgb(5, 133, 5);
+    display: inline;
+}
+.d3{
+    background-color: aquamarine;
+    display: inline;
+}
